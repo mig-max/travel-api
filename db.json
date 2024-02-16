@@ -8,6 +8,7 @@
           "topSight": "El Retiro",
           "topTip": "Stay up late",
           "accommodation": "Airbnb in Malasaña",
+          "dailyBudget": 50
           "isGoodForNight": true,
           "isGoodForFamily": false,
           "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
@@ -20,6 +21,7 @@
           "topSight": " Unesco World Heritage Site, the old city district is located by the Douro",
           "topTip": "Go to Livrario Lello",
           "accommodation": "Rosalma Porto",
+          "dailyBudget": 50
           "isGoodForNight": true,
           "isGoodForFamily": false,
           "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
@@ -32,6 +34,7 @@
           "topSight": "Freetown Christiania",
           "topTip": "Use the public bus-boat to see the city from the channels",
           "accommodation": "airbn in norrebro",
+          "dailyBudget": 50
           "isGoodForNight": false,
           "isGoodForFamily": true,
           "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
@@ -44,6 +47,7 @@
           "topSight": "The Colosseum. ",
           "topTip": "Order Coffee at the Bar",
           "accommodation": "Piazza Navona",
+          "dailyBudget": 50
           "isGoodForNight": false,
           "isGoodForFamily": true,
           "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
@@ -56,6 +60,7 @@
           "topSight": "Hampstead Heath",
           "topTip": "Don't be afraid to leave the centre",
           "accommodation": "Premier Inn",
+          "dailyBudget": 50
           "isGoodForNight": true,
           "isGoodForFamily": true,
           "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMG-1ylhwqh3MCrRA4XqqdEb5nrEc4d_q6a6GXK=s680-w680-h510"
@@ -68,6 +73,7 @@
           "topSight": "Monte Deva",
           "topTip": "Drink the cider",
           "accommodation": "Camping El Rinconín",
+          "dailyBudget": 50
           "isGoodForNight": false,
           "isGoodForFamily": true,
           "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
@@ -80,6 +86,7 @@
           "topSight": "Monte Deva",
           "topTip": "Drink the cider",
           "accommodation": "Camping El Rinconín",
+          "dailyBudget": 50
           "isGoodForNight": false,
           "isGoodForFamily": true,
           "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
