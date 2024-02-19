@@ -12,6 +12,7 @@
             "dailyBudget": 50,
             "isGoodForNight": true,
             "isGoodForFamily": false,
+            "favorite": false,
             "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
         },
         {
@@ -25,6 +26,7 @@
             "dailyBudget": 50,
             "isGoodForNight": true,
             "isGoodForFamily": false,
+            "isFavorite": false,
             "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
         },
         {
@@ -38,6 +40,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+            "isFavorite": false,
             "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
         },
         {
@@ -51,6 +54,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+             "isFavorite": false,
             "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
         },
         {
@@ -64,6 +68,7 @@
             "dailyBudget": 50,
             "isGoodForNight": true,
             "isGoodForFamily": true,
+             "isFavorite": false,
             "imageURL": "https://lh3.googleusercontent.com/p/AF1QipMG-1ylhwqh3MCrRA4XqqdEb5nrEc4d_q6a6GXK=s680-w680-h510"
         },
         {
@@ -77,6 +82,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+             "isFavorite": false,
             "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
         },
        {
@@ -90,6 +96,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+            "isFavorite": false,
             "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
         },
         {
@@ -103,6 +110,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+            "isFavorite": false,
             "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
         },
         {
@@ -116,6 +124,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+            "isFavorite": false,
             "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
         },
         {
@@ -129,6 +138,7 @@
             "dailyBudget": 50,
             "isGoodForNight": false,
             "isGoodForFamily": true,
+            "isFavorite": false,
             "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
         }
     ]
