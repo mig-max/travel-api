@@ -12,7 +12,7 @@
             "dailyBudget": 50,
             "isGoodForNight": true,
             "isGoodForFamily": false,
-            "favorite": false,
+            "isFavorite": false,
             "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
         },
         {
