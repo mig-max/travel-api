@@ -130,17 +130,20 @@
         {
             "id": 8,
             "city": "Paris",
-            "description": "Symbol of reunification, vibrant cultural scene",
-            "topBite": "Cachopo",
-            "topSight": "Monte Deva",
-            "topTip": "Drink the cider",
-            "accommodation": "Camping El Rinconín",
-            "dailyBudget": 50,
+            "description": "One of the world's major centres of finance, diplomacy, commerce, culture, fashion, and gastronomy. For its leading role in the arts and sciences, as well as its early and extensive system of street lighting, in the 19th century, it became known as the City of Light.",
+            "topBite": "Croissants",
+            "topSight": "Montmartre",
+            "topTip": "Louvre Friday Night",
+            "accommodation": "Hotel Malte",
+            "dailyBudget": 1000,
+            "neighbourhood": "Mitte",
+            "park": "Parc Monceau",
+            "museum": "Altes Museum",
             "isGoodForNight": false,
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
+            "imageURL": "https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4"
         },
         {
             "id": 9,
