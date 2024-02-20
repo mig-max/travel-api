@@ -9,12 +9,12 @@
             "topSight": "El Retiro",
             "topTip": "Stay up late",
             "accommodation": "Airbnb in Malasaña",
-            "dailyBudget": 50,
+            "dailyBudget": 45,
             "isGoodForNight": true,
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://static.eldiario.es/clip/898fe5d0-943b-4b04-bb3b-13afe201eb0c_16-9-discover-aspect-ratio_default_0.webp"
+            "imageURL": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "id": 2,
