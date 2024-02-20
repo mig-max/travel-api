@@ -148,17 +148,20 @@
         {
             "id": 9,
             "city": "Prague",
-            "description": "Symbol of reunification, vibrant cultural scene",
-            "topBite": "Cachopo",
-            "topSight": "Monte Deva",
-            "topTip": "Drink the cider",
-            "accommodation": "Camping El Rinconín",
+            "description": "Rightly considered one of the most beautiful cities in the world. Visitors from all over the world come here to admire not only its history and diverse architecture, but also to enjoy the friendly and romantic atmosphere",
+            "topBite": "Goulash",
+            "topSight": "Charles Bridge",
+            "topTip": "Don't eat in the center",
+            "accommodation": "Grandium Hotel",
             "dailyBudget": 50,
-            "isGoodForNight": false,
-            "isGoodForFamily": true,
+            "neighbourhood": "Staré Mesto",
+            "park": "Letna Park",
+            "museum": "Kafka Museum",
+            "isGoodForNight": true,
+            "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://a.cdn-hotels.com/gdcs/production10/d230/64104660-68ce-11e8-bbf2-0242ac110009.jpg?impolicy=fcrop&w=800&h=533&q=medium"
+            "imageURL": "https://cdn.mos.cms.futurecdn.net/5WUroWJ3ECE9pk9vBhXiqP-1920-80.png.webp"
         },
         {
             "id": 10,
