@@ -37,7 +37,9 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/aerial-photo-of-houses-CDY7dR51_c8"
+            "lat": 41.157944,
+            "lng": -8.629105,
+            "imageURL": "https://www.besttravel.dk/media/yycnh3sk/porto-fra-douro-floden.jpeg?anchor=center&mode=crop&width=1920&height=933&format=webp&quality=90&rnd=133438273824170000"
         },
         {
             "id": 3,
@@ -55,7 +57,9 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/two-people-biking-and-other-people-walking-on-pathway-near-buildings-under-white-and-blue-sky-0PSCd1wIrm4"
+            "lat": 55.676098,
+            "lng": 12.568337,
+            "imageURL": "https://media.cntraveller.com/photos/612f64dbf890ff275da27649/16:9/w_2240,c_limit/LICENSE_Lasse%20Schelde-Copenhagen_(c)%20Getty%20Images_CNT%20UK_Sophie%20Knight.jpeg"
         },
         {
             "id": 4,
@@ -73,7 +77,9 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/coliseum-italy-s87bBFZviAU"
+            "lat": 41.902782,
+            "lng": 12.496365,
+            "imageURL": "https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
         },
         {
             "id": 5,
@@ -91,7 +97,9 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/big-ben-london-iP8ElEhqHeY"
+            "lat": 51.507351,
+            "lng": -0.127758,
+            "imageURL": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg?width=3840&height=1920&crop=3840%3A1920%2Csmart&quality=75&auto=webp"
         },
         {
             "id": 6,
@@ -109,7 +117,9 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/gijon-beach-aerial-view-in-the-centre-of-gijon-city-in-asturias-spain-JJqxd_E-DvA"
+            "lat": 43.545231,
+            "lng": -5.661920,
+            "imageURL": "https://www.turismoasturias.es/documents/39908/2e7523e3-7874-ea58-65c5-293031a3966e?t=1695820342357"
         },
        {
             "id": 7,
@@ -127,7 +137,9 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/woman-standing-near-building-TScGhJM716g"
+            "lat": 52.520008,
+            "lng": 13.404954,
+            "imageURL": "https://velvetescape.com/wp-content/uploads/2015/06/IMG_4081-1280x920.jpeg"
         },
         {
             "id": 8,
@@ -145,7 +157,9 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
-            "imageURL": "https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4"
+            "lat": 48.856613,
+            "lng": 2.352222,
+            "imageURL": "https://storbyfan.dk/wp-content/uploads/2013/01/Paris.jpg"
         },
         {
             "id": 9,
@@ -163,6 +177,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 50.075539,
+            "lng": 14.437800,
             "imageURL": "https://cdn.mos.cms.futurecdn.net/5WUroWJ3ECE9pk9vBhXiqP-1920-80.png.webp"
         },
         {
@@ -171,7 +187,7 @@
             "description": "Its long history as a thriving cultural center is reflected in the grand palaces and parks along the Royal Route, imposing post-war architecture, Jewish heritage museums, performing arts scene, and the capital city's love for all things Chopin.",
             "topBite": "Pierogi",
             "topSight": "Old Towmn Square",
-            "topTip": "Watch out for pickpockets",
+            "topTip": "Watch for pickpockets",
             "accommodation": "H15 Boutique Hotel",
             "dailyBudget": 30,
             "neighbourhood": "Praga District",
@@ -181,6 +197,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 52.229675,
+            "lng": 21.012230,
             "imageURL": "https://www.telegraph.co.uk/content/dam/travel/2023/10/17/TELEMMGLPICT000353346157_16975480872940_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?imwidth=1280"
         },
          {
@@ -199,6 +217,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 48.208176,
+            "lng": 16.373819,
             "imageURL": "https://www.wien.info/resource/image/290578/Hero-Header/3780/1400/26a78e446bb0ae3fba0983f2f630a27e/34ECD99BEC2D61506D2F8D1AD3CF5627/40367-graben-einkaufen-shopping-altstadt-einkaufsstrassen.webp"
         },
          {
@@ -217,6 +237,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 48.148598,
+            "lng": 17.107748,
             "imageURL": "https://www.introducingvienna.com/f/austria/viena/guia/bratislava.jpg"
         },
          {
@@ -235,6 +257,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 52.370216,
+            "lng": 4.895168,
             "imageURL": "https://lindaontherun.com/wp-content/uploads/2024/01/Sunset-Header-1-day-in-Amsterdam.jpg"
         },
          {
@@ -243,7 +267,7 @@
             "description": "One of Europe's best-preserved cities. This is evidenced by its historic city centre, the entirety of which has been designated a UNESCO world heritage site. The iconic spires of its cathedral and bell tower, its cobbled streets, winding canals and whitewashed façades are almost painfully picturesque.",
             "topBite": "Fries",
             "topSight": "De Halve Maan",
-            "topTip": "Discover the gastrononmy",
+            "topTip": "Discover the gastronomy",
             "accommodation": "Martins Brudge",
             "dailyBudget": 80,
             "neighbourhood": "City Center",
@@ -253,6 +277,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 51.209419,
+            "lng": 3.225200,
             "imageURL": "https://www.mummytravels.com/wp-content/uploads/2022/11/belgium-bruges-canal-view-Depositphotos441082236s.jpg"
         }
     ]
