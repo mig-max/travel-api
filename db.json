@@ -37,6 +37,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 41.157944,
+            "lng": -8.629105,
             "imageURL": "https://www.besttravel.dk/media/yycnh3sk/porto-fra-douro-floden.jpeg?anchor=center&mode=crop&width=1920&height=933&format=webp&quality=90&rnd=133438273824170000"
         },
         {
@@ -55,6 +57,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 55.676098,
+            "lng": 12.568337,
             "imageURL": "https://media.cntraveller.com/photos/612f64dbf890ff275da27649/16:9/w_2240,c_limit/LICENSE_Lasse%20Schelde-Copenhagen_(c)%20Getty%20Images_CNT%20UK_Sophie%20Knight.jpeg"
         },
         {
@@ -73,6 +77,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 41.902782,
+            "lng": 12.496365,
             "imageURL": "https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
         },
         {
@@ -91,6 +97,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 51.507351,
+            "lng": -0.127758,
             "imageURL": "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg?width=3840&height=1920&crop=3840%3A1920%2Csmart&quality=75&auto=webp"
         },
         {
@@ -109,6 +117,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 43.545231,
+            "lng": -5.661920,
             "imageURL": "https://www.turismoasturias.es/documents/39908/2e7523e3-7874-ea58-65c5-293031a3966e?t=1695820342357"
         },
        {
@@ -127,6 +137,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 52.520008,
+            "lng": 13.404954,
             "imageURL": "https://velvetescape.com/wp-content/uploads/2015/06/IMG_4081-1280x920.jpeg"
         },
         {
@@ -145,6 +157,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 48.856613,
+            "lng": 2.352222,
             "imageURL": "https://storbyfan.dk/wp-content/uploads/2013/01/Paris.jpg"
         },
         {
@@ -163,6 +177,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 50.075539,
+            "lng": 14.437800,
             "imageURL": "https://cdn.mos.cms.futurecdn.net/5WUroWJ3ECE9pk9vBhXiqP-1920-80.png.webp"
         },
         {
@@ -181,6 +197,8 @@
             "isGoodForFamily": false,
             "isFavorite": false,
             "rating": 0,
+            "lat": 52.229675,
+            "lng": 21.012230,
             "imageURL": "https://www.telegraph.co.uk/content/dam/travel/2023/10/17/TELEMMGLPICT000353346157_16975480872940_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?imwidth=1280"
         },
          {
@@ -199,6 +217,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 48.208176,
+            "lng": 16.373819,
             "imageURL": "https://www.wien.info/resource/image/290578/Hero-Header/3780/1400/26a78e446bb0ae3fba0983f2f630a27e/34ECD99BEC2D61506D2F8D1AD3CF5627/40367-graben-einkaufen-shopping-altstadt-einkaufsstrassen.webp"
         },
          {
@@ -217,6 +237,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 48.148598,
+            "lng": 17.107748,
             "imageURL": "https://www.introducingvienna.com/f/austria/viena/guia/bratislava.jpg"
         },
          {
@@ -235,6 +257,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 52.370216,
+            "lng": 4.895168,
             "imageURL": "https://lindaontherun.com/wp-content/uploads/2024/01/Sunset-Header-1-day-in-Amsterdam.jpg"
         },
          {
@@ -253,6 +277,8 @@
             "isGoodForFamily": true,
             "isFavorite": false,
             "rating": 0,
+            "lat": 51.209419,
+            "lng": 3.225200,
             "imageURL": "https://www.mummytravels.com/wp-content/uploads/2022/11/belgium-bruges-canal-view-Depositphotos441082236s.jpg"
         }
     ]
