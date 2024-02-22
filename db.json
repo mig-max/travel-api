@@ -219,7 +219,7 @@
             "rating": 0,
             "lat": 48.208176,
             "lng": 16.373819,
-            "imageURL": "https://www.wien.info/resource/image/290578/Hero-Header/3780/1400/26a78e446bb0ae3fba0983f2f630a27e/34ECD99BEC2D61506D2F8D1AD3CF5627/40367-graben-einkaufen-shopping-altstadt-einkaufsstrassen.webp"
+            "imageURL": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1920/v1657720434/ul5zw9nasxo3okxba00q.jpg"
         },
          {
             "id": 12,
@@ -239,7 +239,7 @@
             "rating": 0,
             "lat": 48.148598,
             "lng": 17.107748,
-            "imageURL": "https://www.introducingvienna.com/f/austria/viena/guia/bratislava.jpg"
+            "imageURL": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*6_OBiTT4MvNfK75J.jpg"
         },
          {
             "id": 13,
