@@ -183,7 +183,7 @@
         },
         {
             "id": 10,
-            "city": "Warsow",
+            "city": "Warsaw",
             "description": "Its long history as a thriving cultural center is reflected in the grand palaces and parks along the Royal Route, imposing post-war architecture, Jewish heritage museums, performing arts scene, and the capital city's love for all things Chopin.",
             "topBite": "Pierogi",
             "topSight": "Old Towmn Square",
@@ -283,3 +283,4 @@
         }
     ]
   }
+
